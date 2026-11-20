@@ -1,0 +1,73 @@
+bloque,tienda,semana,grupo,periodo,ventas_producto
+1,Quito La Carolina,1,habitual,base,1185
+1,Quito La Carolina,2,habitual,base,1248
+1,Quito La Carolina,3,habitual,tratamiento,1097
+1,Quito La Carolina,4,habitual,tratamiento,1150
+1,Quito La Carolina,5,habitual,tratamiento,1297
+1,Quito La Carolina,6,habitual,tratamiento,1216
+1,Quito Cumbaya,1,pasillo_principal,base,1026
+1,Quito Cumbaya,2,pasillo_principal,base,1088
+1,Quito Cumbaya,3,pasillo_principal,tratamiento,1047
+1,Quito Cumbaya,4,pasillo_principal,tratamiento,1122
+1,Quito Cumbaya,5,pasillo_principal,tratamiento,1204
+1,Quito Cumbaya,6,pasillo_principal,tratamiento,1132
+2,Quito Carcelen,1,pasillo_principal,base,1471
+2,Quito Carcelen,2,pasillo_principal,base,1526
+2,Quito Carcelen,3,pasillo_principal,tratamiento,1623
+2,Quito Carcelen,4,pasillo_principal,tratamiento,1662
+2,Quito Carcelen,5,pasillo_principal,tratamiento,1696
+2,Quito Carcelen,6,pasillo_principal,tratamiento,1788
+2,Quito El Recreo,1,habitual,base,968
+2,Quito El Recreo,2,habitual,base,865
+2,Quito El Recreo,3,habitual,tratamiento,854
+2,Quito El Recreo,4,habitual,tratamiento,972
+2,Quito El Recreo,5,habitual,tratamiento,964
+2,Quito El Recreo,6,habitual,tratamiento,964
+3,Guayaquil Urdesa,1,habitual,base,1160
+3,Guayaquil Urdesa,2,habitual,base,1268
+3,Guayaquil Urdesa,3,habitual,tratamiento,1297
+3,Guayaquil Urdesa,4,habitual,tratamiento,1152
+3,Guayaquil Urdesa,5,habitual,tratamiento,1335
+3,Guayaquil Urdesa,6,habitual,tratamiento,1285
+3,Guayaquil Samborondon,1,pasillo_principal,base,1049
+3,Guayaquil Samborondon,2,pasillo_principal,base,1014
+3,Guayaquil Samborondon,3,pasillo_principal,tratamiento,1223
+3,Guayaquil Samborondon,4,pasillo_principal,tratamiento,1255
+3,Guayaquil Samborondon,5,pasillo_principal,tratamiento,1251
+3,Guayaquil Samborondon,6,pasillo_principal,tratamiento,1216
+4,Guayaquil Alborada,1,habitual,base,990
+4,Guayaquil Alborada,2,habitual,base,1119
+4,Guayaquil Alborada,3,habitual,tratamiento,1095
+4,Guayaquil Alborada,4,habitual,tratamiento,1124
+4,Guayaquil Alborada,5,habitual,tratamiento,1160
+4,Guayaquil Alborada,6,habitual,tratamiento,1180
+4,Guayaquil Sur,1,pasillo_principal,base,1379
+4,Guayaquil Sur,2,pasillo_principal,base,1286
+4,Guayaquil Sur,3,pasillo_principal,tratamiento,1409
+4,Guayaquil Sur,4,pasillo_principal,tratamiento,1382
+4,Guayaquil Sur,5,pasillo_principal,tratamiento,1470
+4,Guayaquil Sur,6,pasillo_principal,tratamiento,1486
+5,Santo Domingo,1,habitual,base,797
+5,Santo Domingo,2,habitual,base,855
+5,Santo Domingo,3,habitual,tratamiento,871
+5,Santo Domingo,4,habitual,tratamiento,1107
+5,Santo Domingo,5,habitual,tratamiento,872
+5,Santo Domingo,6,habitual,tratamiento,992
+5,Portoviejo,1,pasillo_principal,base,992
+5,Portoviejo,2,pasillo_principal,base,977
+5,Portoviejo,3,pasillo_principal,tratamiento,1142
+5,Portoviejo,4,pasillo_principal,tratamiento,1154
+5,Portoviejo,5,pasillo_principal,tratamiento,1145
+5,Portoviejo,6,pasillo_principal,tratamiento,1147
+6,Riobamba,1,pasillo_principal,base,1075
+6,Riobamba,2,pasillo_principal,base,1090
+6,Riobamba,3,pasillo_principal,tratamiento,1265
+6,Riobamba,4,pasillo_principal,tratamiento,1256
+6,Riobamba,5,pasillo_principal,tratamiento,1336
+6,Riobamba,6,pasillo_principal,tratamiento,1376
+6,Ibarra,1,habitual,base,1373
+6,Ibarra,2,habitual,base,1373
+6,Ibarra,3,habitual,tratamiento,1485
+6,Ibarra,4,habitual,tratamiento,1417
+6,Ibarra,5,habitual,tratamiento,1449
+6,Ibarra,6,habitual,tratamiento,1428
